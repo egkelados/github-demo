@@ -1,6 +1,6 @@
 # Github - Demo
 It is a repository that contains information about **Git and Github**. This project created for practice with git commands.
-** conflict **
-** Conflict??? **
+**conflict**
+**Conflict???**
 
-** Conflicts Resolved **
+**Conflicts Resolved**
